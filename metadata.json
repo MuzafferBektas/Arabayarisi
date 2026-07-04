@@ -1,0 +1,6 @@
+{
+  "name": "Araba Yarışı",
+  "description": "Hız ve macera dolu klasik retro araba yarışı oyunu. Engellerden kaçın, güçlendiricileri topla!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
